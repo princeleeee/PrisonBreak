@@ -1,4 +1,4 @@
 # amazonaws s3 direct download
 DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-SUFFIX,s3.amazonaws.com
+DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,batjoker.top
